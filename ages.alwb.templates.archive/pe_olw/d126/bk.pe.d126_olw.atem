@@ -9,8 +9,6 @@ import rules.*
 
 import pe.d126_gr_GR_cog.*
 
-
-
 Para sid peCommemoration.text End-Para
 Para sid peShortCommemoration1.text End-Para
 Para sid peInsert1 End-Para
@@ -25,6 +23,5 @@ Para sid peHO.note2 End-Para
 Para sid peDismissal End-Para
 
 Hymn sid peMA.MM.Lauds123as123.text End-Hymn
-
 
 End-Template

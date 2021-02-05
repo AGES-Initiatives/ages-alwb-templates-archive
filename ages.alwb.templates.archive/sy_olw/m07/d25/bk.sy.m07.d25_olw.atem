@@ -4,8 +4,6 @@ Status NA
 
 import sy.m07.d25_gr_GR_cog.*
 
-
-
 Para sid S01.commemoration.text End-Para
 Para sid S01.couplet1.title End-Para
 Para sid S01.couplet1.verse1 End-Para
@@ -86,6 +84,5 @@ Para sid cl.S05.narration1.p06.text End-Para
 Para sid cl.S05.narration1.p07.text End-Para
 
 Para sid cl.S06.commemoration.text End-Para
-
 
 End-Template

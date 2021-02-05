@@ -9,8 +9,6 @@ import rules.*
 
 import me.m08.d13_gr_GR_cog.*
 
-
-
 Para sid meDate.text End-Para
 Para sid meCommemoration.text End-Para
 Para sid meShortCommemoration1.text End-Para

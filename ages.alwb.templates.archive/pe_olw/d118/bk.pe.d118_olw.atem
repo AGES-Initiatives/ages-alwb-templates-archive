@@ -9,8 +9,6 @@ import rules.*
 
 import pe.d118_gr_GR_cog.*
 
-
-
 Para sid peCommemoration.text End-Para
 Para sid peShortCommemoration1.text End-Para
 Para sid peInsert1 End-Para
@@ -23,6 +21,5 @@ Para sid peHO.description2 End-Para
 Para sid peHO.note1 End-Para
 Para sid peHO.note2 End-Para
 Para sid peDismissal End-Para
-
 
 End-Template

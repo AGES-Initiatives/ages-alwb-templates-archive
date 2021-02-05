@@ -9,7 +9,6 @@ import rules.*
 
 import me.m07.d12_gr_GR_cog.*
 
-
 Para sid meDate.text End-Para
 Para sid meCommemoration.text End-Para
 Para sid meShortCommemoration1.text End-Para
@@ -49,7 +48,7 @@ Para sid meVE.Apolytikion1.mode End-Para
 Para sid meVE.Apolytikion1.melody End-Para
 Para sid meVE.Apolytikion1.text End-Para
 
-Para sid meMA.C1Acrostic.text End-Para
+Para sid meMA.C1.acrostic End-Para
 
 Para sid meMA.C1.title End-Para
 Para sid meMA.C1.verse End-Para
@@ -282,7 +281,6 @@ Para sid meLI.Kontakion1.text End-Para
 
 Para sid meMegalynarion.text End-Para
 
-
 Para sid alt1.meDate.text End-Para
 Para sid alt1.meCommemoration.text End-Para
 Para sid alt1.meCommemoration2.text End-Para
@@ -302,210 +300,158 @@ Para sid alt1.meDismissal End-Para
 Title <Tmode>sid alt1.meSV.Stichera1.mode</> <Tmelody>sid alt1.meSV.Stichera1.melody</>  End-Title
 Hymn sid alt1.meSV.Stichera1.text End-Hymn
 
-
 Title <Tmode>sid alt1.meSV.Stichera2.mode</> <Tmelody>sid alt1.meSV.Stichera2.melody</>  End-Title
 Hymn sid alt1.meSV.Stichera2.text End-Hymn
-
 
 Title <Tmode>sid alt1.meSV.Stichera3.mode</> <Tmelody>sid alt1.meSV.Stichera3.melody</>  End-Title
 Hymn sid alt1.meSV.Stichera3.text End-Hymn
 
-
 Title <Tmode>sid alt1.meSV.Stichera4.mode</> <Tmelody>sid alt1.meSV.Stichera4.melody</>  End-Title
 Hymn sid alt1.meSV.Stichera4.text End-Hymn
-
 
 Title <Tmode>sid alt1.meSV.SticGlory.mode</> <Tmelody>sid alt1.meSV.SticGlory.melody</>  End-Title
 Hymn sid alt1.meSV.SticGlory.text End-Hymn
 
-
 Title <Tmode>sid alt1.meSV.SticBoth.mode</> <Tmelody>sid alt1.meSV.SticBoth.melody</>  End-Title
 Hymn sid alt1.meSV.SticBoth.text End-Hymn
-
 
 Title <Tmode>sid alt1.meSV.Aposticha1.mode</> <Tmelody>sid alt1.meSV.Aposticha1.melody</>  End-Title
 Hymn sid alt1.meSV.Aposticha1.text End-Hymn
 
-
 Title <Tmode>sid alt1.meSV.Aposticha2.mode</> <Tmelody>sid alt1.meSV.Aposticha2.melody</>  End-Title
 Hymn sid alt1.meSV.Aposticha2.text End-Hymn
-
 
 Title <Tmode>sid alt1.meSV.Aposticha3.mode</> <Tmelody>sid alt1.meSV.Aposticha3.melody</>  End-Title
 Hymn sid alt1.meSV.Aposticha3.text End-Hymn
 
-
 Title <Tmode>sid alt1.meSV.AposGlory.mode</> <Tmelody>sid alt1.meSV.AposGlory.melody</>  End-Title
 Hymn sid alt1.meSV.AposGlory.text End-Hymn
-
 
 Title <Tmode>sid alt1.meSV.AposBoth.mode</> <Tmelody>sid alt1.meSV.AposBoth.melody</>  End-Title
 Hymn sid alt1.meSV.AposBoth.text End-Hymn
 
-
 Title <Tmode>sid alt1.meVE.Stichera01.mode</> <Tmelody>sid alt1.meVE.Stichera01.melody</>  End-Title
 Hymn sid alt1.meVE.Stichera01.text End-Hymn
-
 
 Title <Tmode>sid alt1.meVE.Stichera02.mode</> <Tmelody>sid alt1.meVE.Stichera02.melody</>  End-Title
 Hymn sid alt1.meVE.Stichera02.text End-Hymn
 
-
 Title <Tmode>sid alt1.meVE.Stichera03.mode</> <Tmelody>sid alt1.meVE.Stichera03.melody</>  End-Title
 Hymn sid alt1.meVE.Stichera03.text End-Hymn
 
-
 Hymn sid alt1.meVE.MM.Stichera1123as78910.text End-Hymn
-
 
 Title <Tmode>sid alt1.meVE.Stichera04.mode</> <Tmelody>sid alt1.meVE.Stichera04.melody</>  End-Title
 Hymn sid alt1.meVE.Stichera04.text End-Hymn
 
-
 Title <Tmode>sid alt1.meVE.Stichera05.mode</> <Tmelody>sid alt1.meVE.Stichera05.melody</>  End-Title
 Hymn sid alt1.meVE.Stichera05.text End-Hymn
-
 
 Title <Tmode>sid alt1.meVE.Stichera06.mode</> <Tmelody>sid alt1.meVE.Stichera06.melody</>  End-Title
 Hymn sid alt1.meVE.Stichera06.text End-Hymn
 
-
 Title <Tmode>sid alt1.meVE.SticGlory.mode</> <Tmelody>sid alt1.meVE.SticGlory.melody</>  End-Title
 Hymn sid alt1.meVE.SticGlory.text End-Hymn
-
 
 Title <Tmode>sid alt1.meVE.SticTheotokion.mode</> <Tmelody>sid alt1.meVE.SticTheotokion.melody</>  End-Title
 Hymn sid alt1.meVE.SticTheotokion.text End-Hymn
 
-
 Title <Tmode>sid alt1.meVE.Lity1.mode</> <Tmelody>sid alt1.meVE.Lity1.melody</>  End-Title
 Hymn sid alt1.meVE.Lity1.text End-Hymn
-
 
 Title <Tmode>sid alt1.meVE.Lity2.mode</> <Tmelody>sid alt1.meVE.Lity2.melody</>  End-Title
 Hymn sid alt1.meVE.Lity2.text End-Hymn
 
-
 Title <Tmode>sid alt1.meVE.Lity3.mode</> <Tmelody>sid alt1.meVE.Lity3.melody</>  End-Title
 Hymn sid alt1.meVE.Lity3.text End-Hymn
-
 
 Title <Tmode>sid alt1.meVE.Lity4.mode</> <Tmelody>sid alt1.meVE.Lity4.melody</>  End-Title
 Hymn sid alt1.meVE.Lity4.text End-Hymn
 
-
 Title <Tmode>sid alt1.meVE.Lity5.mode</> <Tmelody>sid alt1.meVE.Lity5.melody</>  End-Title
 Hymn sid alt1.meVE.Lity5.text End-Hymn
-
 
 Title <Tmode>sid alt1.meVE.LityGlory.mode</> <Tmelody>sid alt1.meVE.LityGlory.melody</>  End-Title
 Hymn sid alt1.meVE.LityGlory.text End-Hymn
 
-
 Title <Tmode>sid alt1.meVE.LityBoth.mode</> <Tmelody>sid alt1.meVE.LityBoth.melody</>  End-Title
 Hymn sid alt1.meVE.LityBoth.text End-Hymn
-
 
 Title <Tmode>sid alt1.meVE.Aposticha1.mode</> <Tmelody>sid alt1.meVE.Aposticha1.melody</>  End-Title
 Hymn sid alt1.meVE.Aposticha1.text End-Hymn
 
-
 Title <Tmode>sid alt1.meVE.Aposticha2.mode</> <Tmelody>sid alt1.meVE.Aposticha2.melody</>  End-Title
 Hymn sid alt1.meVE.Aposticha2.text End-Hymn
-
 
 Title <Tmode>sid alt1.meVE.Aposticha3.mode</> <Tmelody>sid alt1.meVE.Aposticha3.melody</>  End-Title
 Hymn sid alt1.meVE.Aposticha3.text End-Hymn
 
-
 Title <Tmode>sid alt1.meVE.AposGlory.mode</> <Tmelody>sid alt1.meVE.AposGlory.melody</>  End-Title
 Hymn sid alt1.meVE.AposGlory.text End-Hymn
-
 
 Title <Tmode>sid alt1.meVE.AposTheotokion.mode</> <Tmelody>sid alt1.meVE.AposTheotokion.melody</>  End-Title
 Hymn sid alt1.meVE.AposTheotokion.text End-Hymn
 
-
 Title <Tmode>sid alt1.meVE.Apolytikion1.mode</> <Tmelody>sid alt1.meVE.Apolytikion1.melody</>  End-Title
 Hymn sid alt1.meVE.Apolytikion1.text End-Hymn
-
 
 Title <Tmode>sid alt1.meMA.Kathisma11.mode</> <Tmelody>sid alt1.meMA.Kathisma11.melody</>  End-Title
 Hymn sid alt1.meMA.Kathisma11.text End-Hymn
 
-
 Title <Tmode>sid alt1.meMA.Kathisma12.mode</> <Tmelody>sid alt1.meMA.Kathisma12.melody</>  End-Title
 Hymn sid alt1.meMA.Kathisma12.text End-Hymn
-
 
 Title <Tmode>sid alt1.meMA.Kathisma1T.mode</> <Tmelody>sid alt1.meMA.Kathisma1T.melody</>  End-Title
 Hymn sid alt1.meMA.Kathisma1T.text End-Hymn
 
-
 Title <Tmode>sid alt1.meMA.Kathisma21.mode</> <Tmelody>sid alt1.meMA.Kathisma21.melody</>  End-Title
 Hymn sid alt1.meMA.Kathisma21.text End-Hymn
-
 
 Title <Tmode>sid alt1.meMA.Kathisma22.mode</> <Tmelody>sid alt1.meMA.Kathisma22.melody</>  End-Title
 Hymn sid alt1.meMA.Kathisma22.text End-Hymn
 
-
 Title <Tmode>sid alt1.meMA.Kathisma2T.mode</> <Tmelody>sid alt1.meMA.Kathisma2T.melody</>  End-Title
 Hymn sid alt1.meMA.Kathisma2T.text End-Hymn
-
 
 Title <Tmode>sid alt1.meMA.Kathisma31.mode</> <Tmelody>sid alt1.meMA.Kathisma31.melody</>  End-Title
 Hymn sid alt1.meMA.Kathisma31.text End-Hymn
 
-
 Title <Tmode>sid alt1.meMA.Kathisma32.mode</> <Tmelody>sid alt1.meMA.Kathisma32.melody</>  End-Title
 Hymn sid alt1.meMA.Kathisma32.text End-Hymn
-
 
 Title <Tmode>sid alt1.meMA.Kathisma3T.mode</> <Tmelody>sid alt1.meMA.Kathisma3T.melody</>  End-Title
 Hymn sid alt1.meMA.Kathisma3T.text End-Hymn
 
-
 Hymn sid alt1.meMA.MM.Prokeimenon.text End-Hymn
-
 
 Title <Tmode>sid alt1.meMA.PostGospelGlory.mode</> <Tmelody>sid alt1.meMA.PostGospelGlory.melody</>  End-Title
 Hymn sid alt1.meMA.PostGospelGlory.text End-Hymn
 
-
 Title <Tmode>sid alt1.meMA.PostGospelBoth.mode</> <Tmelody>sid alt1.meMA.PostGospelBoth.melody</>  End-Title
 Hymn sid alt1.meMA.PostGospelBoth.text End-Hymn
-
 
 Title <Tmode>sid alt1.meMA.PostGospelIdiomelon.mode</> <Tmelody>sid alt1.meMA.PostGospelIdiomelon.melody</>  End-Title
 Hymn sid alt1.meMA.PostGospelIdiomelon.text End-Hymn
 
+Reading <r>sid alt1.meMA.C1.acrostic </>End-Reading
 
-Reading <r>sid alt1.meMA.C1Acrostic.text </>End-Reading
-
-
-Reading <r>sid alt1.meMA.C2Acrostic.text </>End-Reading
-
+Reading <r>sid alt1.meMA.C2.acrostic </>End-Reading
 
 Para sid alt1.meMA.C1.verse End-Para
 
 Title <Tdesig>sid alt1.meMA.C1.title</>  End-Title
-Title <inr>sid alt1.meMA.C2Poet</>  End-Title
+Title <inr>sid alt1.meMA.C2.poet</>  End-Title
 Title <Tdesig>sid alt1.meMA.Ode1C11.ode</> <Tmode>sid alt1.meMA.Ode1C11.mode</> <Tmelody>sid alt1.meMA.Ode1C11.melody</>  End-Title
 Hymn sid alt1.meMA.Ode1C11.text End-Hymn
-
 
 Title <Tdesig>sid alt1.meMA.Ode1C12.ode</> <Tmode>sid alt1.meMA.Ode1C12.mode</> <Tmelody>sid alt1.meMA.Ode1C12.melody</>  End-Title
 Hymn sid alt1.meMA.Ode1C12.text End-Hymn
 
-
 Title <Tdesig>sid alt1.meMA.Ode1C13.ode</> <Tmode>sid alt1.meMA.Ode1C13.mode</> <Tmelody>sid alt1.meMA.Ode1C13.melody</>  End-Title
 Hymn sid alt1.meMA.Ode1C13.text End-Hymn
 
-
 Title <Tdesig>sid alt1.meMA.Ode1C1T.ode</> <Tmode>sid alt1.meMA.Ode1C1T.mode</> <Tmelody>sid alt1.meMA.Ode1C1T.melody</>  End-Title
 Hymn sid alt1.meMA.Ode1C1T.text End-Hymn
-
 
 Para sid alt1.meMA.C2.verse End-Para
 
@@ -513,162 +459,122 @@ Title <Tdesig>sid alt1.meMA.C2.title</>  End-Title
 Title <Tdesig>sid alt1.meMA.Ode1C21.ode</> <Tmode>sid alt1.meMA.Ode1C21.mode</> <Tmelody>sid alt1.meMA.Ode1C21.melody</>  End-Title
 Hymn sid alt1.meMA.Ode1C21.text End-Hymn
 
-
 Title <Tdesig>sid alt1.meMA.Ode1C22.ode</> <Tmode>sid alt1.meMA.Ode1C22.mode</> <Tmelody>sid alt1.meMA.Ode1C22.melody</>  End-Title
 Hymn sid alt1.meMA.Ode1C22.text End-Hymn
-
 
 Title <Tdesig>sid alt1.meMA.Ode1C23.ode</> <Tmode>sid alt1.meMA.Ode1C23.mode</> <Tmelody>sid alt1.meMA.Ode1C23.melody</>  End-Title
 Hymn sid alt1.meMA.Ode1C23.text End-Hymn
 
-
 Title <Tdesig>sid alt1.meMA.Ode1C2T.ode</> <Tmode>sid alt1.meMA.Ode1C2T.mode</> <Tmelody>sid alt1.meMA.Ode1C2T.melody</>  End-Title
 Hymn sid alt1.meMA.Ode1C2T.text End-Hymn
-
 
 Title <Tdesig>sid alt1.meMA.Ode3C11.ode</> <Tmode>sid alt1.meMA.Ode3C11.mode</> <Tmelody>sid alt1.meMA.Ode3C11.melody</>  End-Title
 Hymn sid alt1.meMA.Ode3C11.text End-Hymn
 
-
 Title <Tdesig>sid alt1.meMA.Ode3C12.ode</> <Tmode>sid alt1.meMA.Ode3C12.mode</> <Tmelody>sid alt1.meMA.Ode3C12.melody</>  End-Title
 Hymn sid alt1.meMA.Ode3C12.text End-Hymn
-
 
 Title <Tdesig>sid alt1.meMA.Ode3C13.ode</> <Tmode>sid alt1.meMA.Ode3C13.mode</> <Tmelody>sid alt1.meMA.Ode3C13.melody</>  End-Title
 Hymn sid alt1.meMA.Ode3C13.text End-Hymn
 
-
 Title <Tdesig>sid alt1.meMA.Ode3C1T.ode</> <Tmode>sid alt1.meMA.Ode3C1T.mode</> <Tmelody>sid alt1.meMA.Ode3C1T.melody</>  End-Title
 Hymn sid alt1.meMA.Ode3C1T.text End-Hymn
-
 
 Title <Tdesig>sid alt1.meMA.Ode3C21.ode</> <Tmode>sid alt1.meMA.Ode3C21.mode</> <Tmelody>sid alt1.meMA.Ode3C21.melody</>  End-Title
 Hymn sid alt1.meMA.Ode3C21.text End-Hymn
 
-
 Title <Tdesig>sid alt1.meMA.Ode3C22.ode</> <Tmode>sid alt1.meMA.Ode3C22.mode</> <Tmelody>sid alt1.meMA.Ode3C22.melody</>  End-Title
 Hymn sid alt1.meMA.Ode3C22.text End-Hymn
-
 
 Title <Tdesig>sid alt1.meMA.Ode3C23.ode</> <Tmode>sid alt1.meMA.Ode3C23.mode</> <Tmelody>sid alt1.meMA.Ode3C23.melody</>  End-Title
 Hymn sid alt1.meMA.Ode3C23.text End-Hymn
 
-
 Title <Tdesig>sid alt1.meMA.Ode3C2T.ode</> <Tmode>sid alt1.meMA.Ode3C2T.mode</> <Tmelody>sid alt1.meMA.Ode3C2T.melody</>  End-Title
 Hymn sid alt1.meMA.Ode3C2T.text End-Hymn
-
 
 Title <Tmode>sid alt1.meMA.Ode3Kathisma1.mode</> <Tmelody>sid alt1.meMA.Ode3Kathisma1.melody</>  End-Title
 Hymn sid alt1.meMA.Ode3Kathisma1.text End-Hymn
 
-
 Title <Tmode>sid alt1.meMA.Ode3Kathisma2.mode</> <Tmelody>sid alt1.meMA.Ode3Kathisma2.melody</>  End-Title
 Hymn sid alt1.meMA.Ode3Kathisma2.text End-Hymn
-
 
 Title <Tmode>sid alt1.meMA.Ode3KathismaT.mode</> <Tmelody>sid alt1.meMA.Ode3KathismaT.melody</>  End-Title
 Hymn sid alt1.meMA.Ode3KathismaT.text End-Hymn
 
-
 Title <Tdesig>sid alt1.meMA.Ode4C11.ode</> <Tmode>sid alt1.meMA.Ode4C11.mode</> <Tmelody>sid alt1.meMA.Ode4C11.melody</>  End-Title
 Hymn sid alt1.meMA.Ode4C11.text End-Hymn
-
 
 Title <Tdesig>sid alt1.meMA.Ode4C12.ode</> <Tmode>sid alt1.meMA.Ode4C12.mode</> <Tmelody>sid alt1.meMA.Ode4C12.melody</>  End-Title
 Hymn sid alt1.meMA.Ode4C12.text End-Hymn
 
-
 Title <Tdesig>sid alt1.meMA.Ode4C13.ode</> <Tmode>sid alt1.meMA.Ode4C13.mode</> <Tmelody>sid alt1.meMA.Ode4C13.melody</>  End-Title
 Hymn sid alt1.meMA.Ode4C13.text End-Hymn
-
 
 Title <Tdesig>sid alt1.meMA.Ode4C1T.ode</> <Tmode>sid alt1.meMA.Ode4C1T.mode</> <Tmelody>sid alt1.meMA.Ode4C1T.melody</>  End-Title
 Hymn sid alt1.meMA.Ode4C1T.text End-Hymn
 
-
 Title <Tdesig>sid alt1.meMA.Ode4C21.ode</> <Tmode>sid alt1.meMA.Ode4C21.mode</> <Tmelody>sid alt1.meMA.Ode4C21.melody</>  End-Title
 Hymn sid alt1.meMA.Ode4C21.text End-Hymn
-
 
 Title <Tdesig>sid alt1.meMA.Ode4C22.ode</> <Tmode>sid alt1.meMA.Ode4C22.mode</> <Tmelody>sid alt1.meMA.Ode4C22.melody</>  End-Title
 Hymn sid alt1.meMA.Ode4C22.text End-Hymn
 
-
 Title <Tdesig>sid alt1.meMA.Ode4C23.ode</> <Tmode>sid alt1.meMA.Ode4C23.mode</> <Tmelody>sid alt1.meMA.Ode4C23.melody</>  End-Title
 Hymn sid alt1.meMA.Ode4C23.text End-Hymn
-
 
 Title <Tdesig>sid alt1.meMA.Ode4C2T.ode</> <Tmode>sid alt1.meMA.Ode4C2T.mode</> <Tmelody>sid alt1.meMA.Ode4C2T.melody</>  End-Title
 Hymn sid alt1.meMA.Ode4C2T.text End-Hymn
 
-
 Title <Tdesig>sid alt1.meMA.Ode5C11.ode</> <Tmode>sid alt1.meMA.Ode5C11.mode</> <Tmelody>sid alt1.meMA.Ode5C11.melody</>  End-Title
 Hymn sid alt1.meMA.Ode5C11.text End-Hymn
-
 
 Title <Tdesig>sid alt1.meMA.Ode5C12.ode</> <Tmode>sid alt1.meMA.Ode5C12.mode</> <Tmelody>sid alt1.meMA.Ode5C12.melody</>  End-Title
 Hymn sid alt1.meMA.Ode5C12.text End-Hymn
 
-
 Title <Tdesig>sid alt1.meMA.Ode5C13.ode</> <Tmode>sid alt1.meMA.Ode5C13.mode</> <Tmelody>sid alt1.meMA.Ode5C13.melody</>  End-Title
 Hymn sid alt1.meMA.Ode5C13.text End-Hymn
-
 
 Title <Tdesig>sid alt1.meMA.Ode5C1T.ode</> <Tmode>sid alt1.meMA.Ode5C1T.mode</> <Tmelody>sid alt1.meMA.Ode5C1T.melody</>  End-Title
 Hymn sid alt1.meMA.Ode5C1T.text End-Hymn
 
-
 Title <Tdesig>sid alt1.meMA.Ode5C21.ode</> <Tmode>sid alt1.meMA.Ode5C21.mode</> <Tmelody>sid alt1.meMA.Ode5C21.melody</>  End-Title
 Hymn sid alt1.meMA.Ode5C21.text End-Hymn
-
 
 Title <Tdesig>sid alt1.meMA.Ode5C22.ode</> <Tmode>sid alt1.meMA.Ode5C22.mode</> <Tmelody>sid alt1.meMA.Ode5C22.melody</>  End-Title
 Hymn sid alt1.meMA.Ode5C22.text End-Hymn
 
-
 Title <Tdesig>sid alt1.meMA.Ode5C23.ode</> <Tmode>sid alt1.meMA.Ode5C23.mode</> <Tmelody>sid alt1.meMA.Ode5C23.melody</>  End-Title
 Hymn sid alt1.meMA.Ode5C23.text End-Hymn
-
 
 Title <Tdesig>sid alt1.meMA.Ode5C2T.ode</> <Tmode>sid alt1.meMA.Ode5C2T.mode</> <Tmelody>sid alt1.meMA.Ode5C2T.melody</>  End-Title
 Hymn sid alt1.meMA.Ode5C2T.text End-Hymn
 
-
 Title <Tdesig>sid alt1.meMA.Ode6C11.ode</> <Tmode>sid alt1.meMA.Ode6C11.mode</> <Tmelody>sid alt1.meMA.Ode6C11.melody</>  End-Title
 Hymn sid alt1.meMA.Ode6C11.text End-Hymn
-
 
 Title <Tdesig>sid alt1.meMA.Ode6C12.ode</> <Tmode>sid alt1.meMA.Ode6C12.mode</> <Tmelody>sid alt1.meMA.Ode6C12.melody</>  End-Title
 Hymn sid alt1.meMA.Ode6C12.text End-Hymn
 
-
 Title <Tdesig>sid alt1.meMA.Ode6C13.ode</> <Tmode>sid alt1.meMA.Ode6C13.mode</> <Tmelody>sid alt1.meMA.Ode6C13.melody</>  End-Title
 Hymn sid alt1.meMA.Ode6C13.text End-Hymn
-
 
 Title <Tdesig>sid alt1.meMA.Ode6C1T.ode</> <Tmode>sid alt1.meMA.Ode6C1T.mode</> <Tmelody>sid alt1.meMA.Ode6C1T.melody</>  End-Title
 Hymn sid alt1.meMA.Ode6C1T.text End-Hymn
 
-
 Title <Tdesig>sid alt1.meMA.Ode6C21.ode</> <Tmode>sid alt1.meMA.Ode6C21.mode</> <Tmelody>sid alt1.meMA.Ode6C21.melody</>  End-Title
 Hymn sid alt1.meMA.Ode6C21.text End-Hymn
-
 
 Title <Tdesig>sid alt1.meMA.Ode6C22.ode</> <Tmode>sid alt1.meMA.Ode6C22.mode</> <Tmelody>sid alt1.meMA.Ode6C22.melody</>  End-Title
 Hymn sid alt1.meMA.Ode6C22.text End-Hymn
 
-
 Title <Tdesig>sid alt1.meMA.Ode6C23.ode</> <Tmode>sid alt1.meMA.Ode6C23.mode</> <Tmelody>sid alt1.meMA.Ode6C23.melody</>  End-Title
 Hymn sid alt1.meMA.Ode6C23.text End-Hymn
-
 
 Title <Tdesig>sid alt1.meMA.Ode6C2T.ode</> <Tmode>sid alt1.meMA.Ode6C2T.mode</> <Tmelody>sid alt1.meMA.Ode6C2T.melody</>  End-Title
 Hymn sid alt1.meMA.Ode6C2T.text End-Hymn
 
-
 Title <Tmode>sid alt1.meMA.Kontakion1.mode</> <Tmelody>sid alt1.meMA.Kontakion1.melody</>  End-Title
 Hymn sid alt1.meMA.Kontakion1.text End-Hymn
-
 
 Hymn sid alt1.meMA.Oikos1.text End-Hymn
 
@@ -686,153 +592,115 @@ Hymn sid alt1.meMA.Oikos17.text End-Hymn
 
 Hymn sid alt1.meMA.Oikos18.text End-Hymn
 
-
 Title <Tdesig>sid alt1.meMA.Ode7C11.ode</> <Tmode>sid alt1.meMA.Ode7C11.mode</> <Tmelody>sid alt1.meMA.Ode7C11.melody</>  End-Title
 Hymn sid alt1.meMA.Ode7C11.text End-Hymn
-
 
 Title <Tdesig>sid alt1.meMA.Ode7C12.ode</> <Tmode>sid alt1.meMA.Ode7C12.mode</> <Tmelody>sid alt1.meMA.Ode7C12.melody</>  End-Title
 Hymn sid alt1.meMA.Ode7C12.text End-Hymn
 
-
 Title <Tdesig>sid alt1.meMA.Ode7C13.ode</> <Tmode>sid alt1.meMA.Ode7C13.mode</> <Tmelody>sid alt1.meMA.Ode7C13.melody</>  End-Title
 Hymn sid alt1.meMA.Ode7C13.text End-Hymn
-
 
 Title <Tdesig>sid alt1.meMA.Ode7C1T.ode</> <Tmode>sid alt1.meMA.Ode7C1T.mode</> <Tmelody>sid alt1.meMA.Ode7C1T.melody</>  End-Title
 Hymn sid alt1.meMA.Ode7C1T.text End-Hymn
 
-
 Title <Tdesig>sid alt1.meMA.Ode7C21.ode</> <Tmode>sid alt1.meMA.Ode7C21.mode</> <Tmelody>sid alt1.meMA.Ode7C21.melody</>  End-Title
 Hymn sid alt1.meMA.Ode7C21.text End-Hymn
-
 
 Title <Tdesig>sid alt1.meMA.Ode7C22.ode</> <Tmode>sid alt1.meMA.Ode7C22.mode</> <Tmelody>sid alt1.meMA.Ode7C22.melody</>  End-Title
 Hymn sid alt1.meMA.Ode7C22.text End-Hymn
 
-
 Title <Tdesig>sid alt1.meMA.Ode7C23.ode</> <Tmode>sid alt1.meMA.Ode7C23.mode</> <Tmelody>sid alt1.meMA.Ode7C23.melody</>  End-Title
 Hymn sid alt1.meMA.Ode7C23.text End-Hymn
-
 
 Title <Tdesig>sid alt1.meMA.Ode7C2T.ode</> <Tmode>sid alt1.meMA.Ode7C2T.mode</> <Tmelody>sid alt1.meMA.Ode7C2T.melody</>  End-Title
 Hymn sid alt1.meMA.Ode7C2T.text End-Hymn
 
-
 Title <Tdesig>sid alt1.meMA.Ode8C11.ode</> <Tmode>sid alt1.meMA.Ode8C11.mode</> <Tmelody>sid alt1.meMA.Ode8C11.melody</>  End-Title
 Hymn sid alt1.meMA.Ode8C11.text End-Hymn
-
 
 Title <Tdesig>sid alt1.meMA.Ode8C12.ode</> <Tmode>sid alt1.meMA.Ode8C12.mode</> <Tmelody>sid alt1.meMA.Ode8C12.melody</>  End-Title
 Hymn sid alt1.meMA.Ode8C12.text End-Hymn
 
-
 Title <Tdesig>sid alt1.meMA.Ode8C13.ode</> <Tmode>sid alt1.meMA.Ode8C13.mode</> <Tmelody>sid alt1.meMA.Ode8C13.melody</>  End-Title
 Hymn sid alt1.meMA.Ode8C13.text End-Hymn
-
 
 Title <Tdesig>sid alt1.meMA.Ode8C1T.ode</> <Tmode>sid alt1.meMA.Ode8C1T.mode</> <Tmelody>sid alt1.meMA.Ode8C1T.melody</>  End-Title
 Hymn sid alt1.meMA.Ode8C1T.text End-Hymn
 
-
 Title <Tdesig>sid alt1.meMA.Ode8C21.ode</> <Tmode>sid alt1.meMA.Ode8C21.mode</> <Tmelody>sid alt1.meMA.Ode8C21.melody</>  End-Title
 Hymn sid alt1.meMA.Ode8C21.text End-Hymn
-
 
 Title <Tdesig>sid alt1.meMA.Ode8C22.ode</> <Tmode>sid alt1.meMA.Ode8C22.mode</> <Tmelody>sid alt1.meMA.Ode8C22.melody</>  End-Title
 Hymn sid alt1.meMA.Ode8C22.text End-Hymn
 
-
 Title <Tdesig>sid alt1.meMA.Ode8C23.ode</> <Tmode>sid alt1.meMA.Ode8C23.mode</> <Tmelody>sid alt1.meMA.Ode8C23.melody</>  End-Title
 Hymn sid alt1.meMA.Ode8C23.text End-Hymn
-
 
 Title <Tdesig>sid alt1.meMA.Ode8C2T.ode</> <Tmode>sid alt1.meMA.Ode8C2T.mode</> <Tmelody>sid alt1.meMA.Ode8C2T.melody</>  End-Title
 Hymn sid alt1.meMA.Ode8C2T.text End-Hymn
 
-
 Title <Tdesig>sid alt1.meMA.Ode9C11.ode</> <Tmode>sid alt1.meMA.Ode9C11.mode</> <Tmelody>sid alt1.meMA.Ode9C11.melody</>  End-Title
 Hymn sid alt1.meMA.Ode9C11.text End-Hymn
-
 
 Title <Tdesig>sid alt1.meMA.Ode9C12.ode</> <Tmode>sid alt1.meMA.Ode9C12.mode</> <Tmelody>sid alt1.meMA.Ode9C12.melody</>  End-Title
 Hymn sid alt1.meMA.Ode9C12.text End-Hymn
 
-
 Title <Tdesig>sid alt1.meMA.Ode9C13.ode</> <Tmode>sid alt1.meMA.Ode9C13.mode</> <Tmelody>sid alt1.meMA.Ode9C13.melody</>  End-Title
 Hymn sid alt1.meMA.Ode9C13.text End-Hymn
-
 
 Title <Tdesig>sid alt1.meMA.Ode9C1T.ode</> <Tmode>sid alt1.meMA.Ode9C1T.mode</> <Tmelody>sid alt1.meMA.Ode9C1T.melody</>  End-Title
 Hymn sid alt1.meMA.Ode9C1T.text End-Hymn
 
-
 Title <Tdesig>sid alt1.meMA.Ode9C21.ode</> <Tmode>sid alt1.meMA.Ode9C21.mode</> <Tmelody>sid alt1.meMA.Ode9C21.melody</>  End-Title
 Hymn sid alt1.meMA.Ode9C21.text End-Hymn
-
 
 Title <Tdesig>sid alt1.meMA.Ode9C22.ode</> <Tmode>sid alt1.meMA.Ode9C22.mode</> <Tmelody>sid alt1.meMA.Ode9C22.melody</>  End-Title
 Hymn sid alt1.meMA.Ode9C22.text End-Hymn
 
-
 Title <Tdesig>sid alt1.meMA.Ode9C23.ode</> <Tmode>sid alt1.meMA.Ode9C23.mode</> <Tmelody>sid alt1.meMA.Ode9C23.melody</>  End-Title
 Hymn sid alt1.meMA.Ode9C23.text End-Hymn
-
 
 Title <Tdesig>sid alt1.meMA.Ode9C24.ode</> <Tmode>sid alt1.meMA.Ode9C24.mode</> <Tmelody>sid alt1.meMA.Ode9C24.melody</>  End-Title
 Hymn sid alt1.meMA.Ode9C24.text End-Hymn
 
-
 Title <Tdesig>sid alt1.meMA.Ode9C2T.ode</> <Tmode>sid alt1.meMA.Ode9C2T.mode</> <Tmelody>sid alt1.meMA.Ode9C2T.melody</>  End-Title
 Hymn sid alt1.meMA.Ode9C2T.text End-Hymn
-
 
 Title <Tmode>sid alt1.meMA.Exaposteilarion1.mode</> <Tmelody>sid alt1.meMA.Exaposteilarion1.melody</>  End-Title
 Hymn sid alt1.meMA.Exaposteilarion1.text End-Hymn
 
-
 Title <Tmode>sid alt1.meMA.Exaposteilarion2.mode</> <Tmelody>sid alt1.meMA.Exaposteilarion2.melody</>  End-Title
 Hymn sid alt1.meMA.Exaposteilarion2.text End-Hymn
-
 
 Title <Tmode>sid alt1.meMA.ExapTheotokion.mode</> <Tmelody>sid alt1.meMA.ExapTheotokion.melody</>  End-Title
 Hymn sid alt1.meMA.ExapTheotokion.text End-Hymn
 
-
 Title <Tmode>sid alt1.meMA.Lauds1.mode</> <Tmelody>sid alt1.meMA.Lauds1.melody</>  End-Title
 Hymn sid alt1.meMA.Lauds1.text End-Hymn
-
 
 Title <Tmode>sid alt1.meMA.Lauds2.mode</> <Tmelody>sid alt1.meMA.Lauds2.melody</>  End-Title
 Hymn sid alt1.meMA.Lauds2.text End-Hymn
 
-
 Title <Tmode>sid alt1.meMA.Lauds3.mode</> <Tmelody>sid alt1.meMA.Lauds3.melody</>  End-Title
 Hymn sid alt1.meMA.Lauds3.text End-Hymn
-
 
 Title <Tmode>sid alt1.meMA.Lauds4.mode</> <Tmelody>sid alt1.meMA.Lauds4.melody</>  End-Title
 Hymn sid alt1.meMA.Lauds4.text End-Hymn
 
-
 Title <Tmode>sid alt1.meMA.LaudsGlory.mode</> <Tmelody>sid alt1.meMA.LaudsGlory.melody</>  End-Title
 Hymn sid alt1.meMA.LaudsGlory.text End-Hymn
-
 
 Title <Tmode>sid alt1.meMA.LaudsTheotokion.mode</> <Tmelody>sid alt1.meMA.LaudsTheotokion.melody</>  End-Title
 Hymn sid alt1.meMA.LaudsTheotokion.text End-Hymn
 
-
 Hymn sid alt1.meMA.MM.Lauds1234as5678.text End-Hymn
-
 
 Para sid alt1.meLI.Kontakion1.mode End-Para
 Para sid alt1.meLI.Kontakion1.melody End-Para
 Para sid alt1.meLI.Kontakion1.text End-Para
 
 Para sid alt1.meMegalynarion.text End-Para
-
-
 
 Para sid alt2.meDate.text End-Para
 Para sid alt2.meCommemoration.text End-Para
@@ -1024,14 +892,14 @@ Para sid alt2.meMA.PostGospelIdiomelon.mode End-Para
 Para sid alt2.meMA.PostGospelIdiomelon.melody End-Para
 Para sid alt2.meMA.PostGospelIdiomelon.text End-Para
 
-Para sid alt2.meMA.C1Poet End-Para
-Para sid alt2.meMA.C1Acrostic.text End-Para
+Para sid alt2.meMA.C1.poet End-Para
+Para sid alt2.meMA.C1.acrostic End-Para
 
-Para sid alt2.meMA.C2Poet End-Para
-Para sid alt2.meMA.C2Acrostic.text End-Para
+Para sid alt2.meMA.C2.poet End-Para
+Para sid alt2.meMA.C2.acrostic End-Para
 
-Para sid alt2.meMA.C3Poet End-Para
-Para sid alt2.meMA.C3Acrostic.text End-Para
+Para sid alt2.meMA.C3.poet End-Para
+Para sid alt2.meMA.C3.acrostic End-Para
 
 Para sid alt2.meMA.C1.title End-Para
 Para sid alt2.meMA.C1.verse End-Para
@@ -1634,6 +1502,5 @@ Para sid alt2.meLI.Kontakion1.melody End-Para
 Para sid alt2.meLI.Kontakion1.text End-Para
 
 Para sid alt2.meMegalynarion.text End-Para
-
 
 End-Template
