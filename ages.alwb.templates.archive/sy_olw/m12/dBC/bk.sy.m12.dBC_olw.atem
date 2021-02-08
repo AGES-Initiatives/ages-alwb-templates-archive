@@ -4,262 +4,213 @@ Status NA
 
 import sy.m12.dBC_gr_GR_cog.*
 
-Para sid S01.commemoration.text End-Para
-Para sid S01.couplet1.title End-Para
-Para sid S01.couplet1.verse1 End-Para
-Para sid S01.couplet1.verse2 End-Para
-Para sid S01.narration1.p01.text End-Para
-Para sid S01.narration1.p02.text End-Para
-Para sid S01.narration1.p03.text End-Para
-Para sid S01.narration1.p04.text End-Para
-Para sid S01.narration1.p05.text End-Para
-Para sid S01.narration1.p06.text End-Para
-Para sid S01.narration1.p07.text End-Para
+Para sid syMA.commemoration01.text End-Para
+Para sid syMA.commemoration01.couplet1.title End-Para
+Para sid syMA.commemoration01.couplet1.verse1 End-Para
+Para sid syMA.commemoration01.couplet1.verse2 End-Para
 
-Para sid S02.commemoration.text End-Para
-Para sid S02.narration1.p01.text End-Para
-Para sid S02.narration1.p02.text End-Para
-Para sid S02.narration1.p03.text End-Para
-Para sid S02.narration1.p04.text End-Para
-Para sid S02.narration1.p05.text End-Para
-Para sid S02.narration1.p06.text End-Para
-Para sid S02.narration1.p07.text End-Para
+Para sid syMA.commemoration02.text End-Para
 
-Para sid S03.commemoration.text End-Para
+Para sid syMA.commemoration03.text End-Para
 
-Para sid S04.commemoration.text End-Para
+Para sid syMA.commemoration04.text End-Para
 
-Para sid S05.commemoration.text End-Para
+Para sid syMA.commemoration05.text End-Para
 
-Para sid S06.commemoration.text End-Para
+Para sid syMA.commemoration06.text End-Para
 
-Para sid S07.commemoration.text End-Para
+Para sid syMA.commemoration07.text End-Para
 
-Para sid S08.commemoration.text End-Para
+Para sid syMA.commemoration08.text End-Para
 
-Para sid S09.commemoration.text End-Para
+Para sid syMA.commemoration09.text End-Para
 
-Para sid S10.commemoration.text End-Para
+Para sid syMA.commemoration10.text End-Para
 
-Para sid S11.commemoration.text End-Para
+Para sid syMA.commemoration11.text End-Para
 
-Para sid S12.commemoration.text End-Para
+Para sid syMA.commemoration12.text End-Para
 
-Para sid S13.commemoration.text End-Para
+Para sid syMA.commemoration13.text End-Para
 
-Para sid S14.commemoration.text End-Para
+Para sid syMA.commemoration14.text End-Para
 
-Para sid S15.commemoration.text End-Para
+Para sid syMA.commemoration15.text End-Para
 
-Para sid S16.commemoration.text End-Para
+Para sid syMA.commemoration16.text End-Para
 
-Para sid S17.commemoration.text End-Para
+Para sid syMA.commemoration17.text End-Para
 
-Para sid S18.commemoration.text End-Para
+Para sid syMA.commemoration18.text End-Para
 
-Para sid S19.commemoration.text End-Para
+Para sid syMA.commemoration19.text End-Para
 
-Para sid S20.commemoration.text End-Para
+Para sid syMA.commemoration20.text End-Para
 
-Para sid S21.commemoration.text End-Para
+Para sid syMA.commemoration21.text End-Para
 
-Para sid S22.commemoration.text End-Para
+Para sid syMA.commemoration22.text End-Para
 
-Para sid S23.commemoration.text End-Para
+Para sid syMA.commemoration23.text End-Para
 
-Para sid S24.commemoration.text End-Para
+Para sid syMA.commemoration24.text End-Para
 
-Para sid S25.commemoration.text End-Para
+Para sid syMA.commemoration25.text End-Para
 
-Para sid S26.commemoration.text End-Para
+Para sid syMA.commemoration26.text End-Para
 
-Para sid S27.commemoration.text End-Para
+Para sid syMA.commemoration27.text End-Para
 
-Para sid S28.commemoration.text End-Para
+Para sid syMA.commemoration28.text End-Para
 
-Para sid S29.commemoration.text End-Para
+Para sid syMA.commemoration29.text End-Para
 
-Para sid S30.commemoration.text End-Para
+Para sid syMA.commemoration30.text End-Para
 
-Para sid S31.commemoration.text End-Para
+Para sid syMA.commemoration31.text End-Para
 
-Para sid S32.commemoration.text End-Para
+Para sid syMA.commemoration32.text End-Para
 
-Para sid S33.commemoration.text End-Para
+Para sid syMA.commemoration33.text End-Para
 
-Para sid S34.commemoration.text End-Para
+Para sid syMA.commemoration34.text End-Para
 
-Para sid S35.commemoration.text End-Para
+Para sid syMA.commemoration35.text End-Para
 
-Para sid S36.commemoration.text End-Para
+Para sid syMA.commemoration36.text End-Para
 
-Para sid S37.commemoration.text End-Para
+Para sid syMA.commemoration37.text End-Para
 
-Para sid S38.commemoration.text End-Para
+Para sid syMA.commemoration38.text End-Para
 
-Para sid S39.commemoration.text End-Para
+Para sid syMA.commemoration39.text End-Para
 
-Para sid S40.commemoration.text End-Para
+Para sid syMA.commemoration40.text End-Para
 
-Para sid S41.commemoration.text End-Para
+Para sid syMA.commemoration41.text End-Para
 
-Para sid S42.commemoration.text End-Para
+Para sid syMA.commemoration42.text End-Para
 
-Para sid S43.commemoration.text End-Para
+Para sid syMA.commemoration43.text End-Para
 
-Para sid S44.commemoration.text End-Para
+Para sid syMA.commemoration44.text End-Para
 
-Para sid S45.commemoration.text End-Para
+Para sid syMA.commemoration45.text End-Para
 
-Para sid S46.commemoration.text End-Para
+Para sid syMA.commemoration46.text End-Para
 
-Para sid S47.commemoration.text End-Para
+Para sid syMA.commemoration47.text End-Para
 
-Para sid S48.commemoration.text End-Para
+Para sid syMA.commemoration48.text End-Para
 
-Para sid S49.commemoration.text End-Para
+Para sid syMA.commemoration49.text End-Para
 
-Para sid S50.commemoration.text End-Para
+Para sid syMA.commemoration50.text End-Para
 
-Para sid S51.commemoration.text End-Para
+Para sid syMA.commemoration51.text End-Para
 
-Para sid S52.commemoration.text End-Para
+Para sid syMA.commemoration52.text End-Para
 
-Para sid S53.commemoration.text End-Para
+Para sid syMA.commemoration53.text End-Para
 
-Para sid S54.commemoration.text End-Para
+Para sid syMA.commemoration54.text End-Para
 
-Para sid S55.commemoration.text End-Para
+Para sid syMA.commemoration55.text End-Para
 
-Para sid S56.commemoration.text End-Para
+Para sid syMA.commemoration56.text End-Para
 
-Para sid S57.commemoration.text End-Para
+Para sid syMA.commemoration57.text End-Para
 
-Para sid S58.commemoration.text End-Para
+Para sid syMA.commemoration58.text End-Para
 
-Para sid S59.commemoration.text End-Para
+Para sid syMA.commemoration59.text End-Para
 
-Para sid S60.commemoration.text End-Para
+Para sid syMA.commemoration60.text End-Para
 
-Para sid S61.commemoration.text End-Para
+Para sid syMA.commemoration61.text End-Para
 
-Para sid S62.commemoration.text End-Para
+Para sid syMA.commemoration62.text End-Para
 
-Para sid S63.commemoration.text End-Para
+Para sid syMA.commemoration63.text End-Para
 
-Para sid S64.commemoration.text End-Para
+Para sid syMA.commemoration64.text End-Para
 
-Para sid S65.commemoration.text End-Para
+Para sid syMA.commemoration65.text End-Para
 
-Para sid S66.commemoration.text End-Para
+Para sid syMA.commemoration66.text End-Para
 
-Para sid S67.commemoration.text End-Para
+Para sid syMA.commemoration67.text End-Para
 
-Para sid S68.commemoration.text End-Para
+Para sid syMA.commemoration68.text End-Para
 
-Para sid S69.commemoration.text End-Para
+Para sid syMA.commemoration69.text End-Para
 
-Para sid S70.commemoration.text End-Para
+Para sid syMA.commemoration70.text End-Para
 
-Para sid S71.commemoration.text End-Para
+Para sid syMA.commemoration71.text End-Para
 
-Para sid S72.commemoration.text End-Para
+Para sid syMA.commemoration72.text End-Para
 
-Para sid S73.commemoration.text End-Para
+Para sid syMA.commemoration73.text End-Para
 
-Para sid S74.commemoration.text End-Para
+Para sid syMA.commemoration74.text End-Para
 
-Para sid S75.commemoration.text End-Para
+Para sid syMA.commemoration75.text End-Para
 
-Para sid S76.commemoration.text End-Para
+Para sid syMA.commemoration76.text End-Para
 
-Para sid S77.commemoration.text End-Para
+Para sid syMA.commemoration77.text End-Para
 
-Para sid S78.commemoration.text End-Para
+Para sid syMA.commemoration78.text End-Para
 
-Para sid S79.commemoration.text End-Para
+Para sid syMA.commemoration79.text End-Para
 
-Para sid S80.commemoration.text End-Para
+Para sid syMA.commemoration80.text End-Para
 
-Para sid S81.commemoration.text End-Para
+Para sid syMA.commemoration81.text End-Para
 
-Para sid S82.commemoration.text End-Para
+Para sid syMA.commemoration82.text End-Para
 
-Para sid S83.commemoration.text End-Para
+Para sid syMA.commemoration83.text End-Para
 
-Para sid S84.commemoration.text End-Para
+Para sid syMA.commemoration84.text End-Para
 
-Para sid S85.commemoration.text End-Para
+Para sid syMA.commemoration85.text End-Para
 
-Para sid S86.commemoration.text End-Para
+Para sid syMA.commemoration86.text End-Para
 
-Para sid S87.commemoration.text End-Para
+Para sid syMA.commemoration87.text End-Para
 
-Para sid S88.commemoration.text End-Para
+Para sid syMA.commemoration88.text End-Para
 
-Para sid S89.commemoration.text End-Para
+Para sid syMA.commemoration89.text End-Para
 
-Para sid S90.commemoration.text End-Para
+Para sid syMA.commemoration90.text End-Para
 
-Para sid S91.commemoration.text End-Para
+Para sid syMA.commemoration91.text End-Para
 
-Para sid S92.commemoration.text End-Para
+Para sid syMA.commemoration92.text End-Para
 
-Para sid S93.commemoration.text End-Para
+Para sid syMA.commemoration93.text End-Para
 
-Para sid S94.commemoration.text End-Para
+Para sid syMA.commemoration94.text End-Para
 
-Para sid S95.commemoration.text End-Para
+Para sid syMA.commemoration95.text End-Para
 
-Para sid S96.commemoration.text End-Para
+Para sid syMA.commemoration96.text End-Para
 
-Para sid S99.lastline.text End-Para
+Para sid syMA.lastline End-Para
 
-Para sid cl.S01.commemoration.text End-Para
-Para sid cl.S01.narration1.p01.text End-Para
-Para sid cl.S01.narration1.p02.text End-Para
-Para sid cl.S01.narration1.p03.text End-Para
-Para sid cl.S01.narration1.p04.text End-Para
-Para sid cl.S01.narration1.p05.text End-Para
-Para sid cl.S01.narration1.p06.text End-Para
-Para sid cl.S01.narration1.p07.text End-Para
+Para sid cl.syMA.commemoration01.text End-Para
 
-Para sid cl.S02.commemoration.text End-Para
-Para sid cl.S02.narration1.p01.text End-Para
-Para sid cl.S02.narration1.p02.text End-Para
-Para sid cl.S02.narration1.p03.text End-Para
-Para sid cl.S02.narration1.p04.text End-Para
-Para sid cl.S02.narration1.p05.text End-Para
-Para sid cl.S02.narration1.p06.text End-Para
-Para sid cl.S02.narration1.p07.text End-Para
+Para sid cl.syMA.commemoration02.text End-Para
 
-Para sid cl.S03.commemoration.text End-Para
-Para sid cl.S03.narration1.p01.text End-Para
-Para sid cl.S03.narration1.p02.text End-Para
-Para sid cl.S03.narration1.p03.text End-Para
-Para sid cl.S03.narration1.p04.text End-Para
-Para sid cl.S03.narration1.p05.text End-Para
-Para sid cl.S03.narration1.p06.text End-Para
-Para sid cl.S03.narration1.p07.text End-Para
+Para sid cl.syMA.commemoration03.text End-Para
 
-Para sid cl.S04.commemoration.text End-Para
-Para sid cl.S04.narration1.p01.text End-Para
-Para sid cl.S04.narration1.p02.text End-Para
-Para sid cl.S04.narration1.p03.text End-Para
-Para sid cl.S04.narration1.p04.text End-Para
-Para sid cl.S04.narration1.p05.text End-Para
-Para sid cl.S04.narration1.p06.text End-Para
-Para sid cl.S04.narration1.p07.text End-Para
+Para sid cl.syMA.commemoration04.text End-Para
 
-Para sid cl.S05.commemoration.text End-Para
-Para sid cl.S05.narration1.p01.text End-Para
-Para sid cl.S05.narration1.p02.text End-Para
-Para sid cl.S05.narration1.p03.text End-Para
-Para sid cl.S05.narration1.p04.text End-Para
-Para sid cl.S05.narration1.p05.text End-Para
-Para sid cl.S05.narration1.p06.text End-Para
-Para sid cl.S05.narration1.p07.text End-Para
+Para sid cl.syMA.commemoration05.text End-Para
 
-Para sid cl.S06.commemoration.text End-Para
+Para sid cl.syMA.commemoration06.text End-Para
 
 End-Template

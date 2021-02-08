@@ -9,18 +9,18 @@ import rules.*
 
 import tr.d049_gr_GR_cog.*
 
-Para sid trCommemoration.text End-Para
-Para sid trShortCommemoration1.text End-Para
-Para sid trInsert1 End-Para
-Para sid trInsert2 End-Para
-Para sid trNote.text End-Para
+Para sid trDA.commemoration.full End-Para
+Para sid trDA.commemoration.short End-Para
+Para sid trDA.insert1 End-Para
+Para sid trDA.insert2 End-Para
+Para sid trDA.note End-Para
 Para sid trHO.daytitle End-Para
 Para sid trHO.commemorations End-Para
 Para sid trHO.description1 End-Para
 Para sid trHO.description2 End-Para
 Para sid trHO.note1 End-Para
 Para sid trHO.note2 End-Para
-Para sid trDismissal End-Para
+Para sid trDA.dismissal End-Para
 
 Title <Tmode>sid trVE.AposIdiomelon1.mode</> <Tmelody>sid trVE.AposIdiomelon1.melody</>  End-Title
 Hymn sid trVE.AposIdiomelon1.text End-Hymn

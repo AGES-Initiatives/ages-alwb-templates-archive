@@ -9,18 +9,18 @@ import rules.*
 
 import pe.d100_gr_GR_cog.*
 
-Para sid peCommemoration.text End-Para
-Para sid peShortCommemoration1.text End-Para
-Para sid peInsert1 End-Para
-Para sid peInsert2 End-Para
-Para sid peNote.text End-Para
+Para sid peDA.commemoration.full End-Para
+Para sid peDA.commemoration.short End-Para
+Para sid peDA.insert1 End-Para
+Para sid peDA.insert2 End-Para
+Para sid peDA.note End-Para
 Para sid peHO.daytitle End-Para
 Para sid peHO.commemorations End-Para
 Para sid peHO.description1 End-Para
 Para sid peHO.description2 End-Para
 Para sid peHO.note1 End-Para
 Para sid peHO.note2 End-Para
-Para sid peDismissal End-Para
+Para sid peDA.dismissal End-Para
 
 Title <Tmode>sid peVE.Stichera01.mode</> <Tmelody>sid peVE.Stichera01.melody</>  End-Title
 Hymn sid peVE.Stichera01.text End-Hymn

@@ -9,12 +9,12 @@ import rules.*
 
 import me.m07.d12_gr_GR_cog.*
 
-Para sid meDate.text End-Para
-Para sid meCommemoration.text End-Para
-Para sid meShortCommemoration1.text End-Para
-Para sid meInsert1 End-Para
-Para sid meInsert2 End-Para
-Para sid meNote.text End-Para
+Para sid meDA.date End-Para
+Para sid meDA.commemoration.full End-Para
+Para sid meDA.commemoration.first_short End-Para
+Para sid meDA.insert1 End-Para
+Para sid meDA.insert2 End-Para
+Para sid meDA.note End-Para
 Para sid meLE.commemoration1 End-Para
 Para sid meLE.commemoration2 End-Para
 Para sid meHO.number End-Para
@@ -281,13 +281,13 @@ Para sid meLI.Kontakion1.text End-Para
 
 Para sid meMegalynarion.text End-Para
 
-Para sid alt1.meDate.text End-Para
-Para sid alt1.meCommemoration.text End-Para
-Para sid alt1.meCommemoration2.text End-Para
-Para sid alt1.meShortCommemoration1.text End-Para
-Para sid alt1.meInsert1 End-Para
-Para sid alt1.meInsert2 End-Para
-Para sid alt1.meNote.text End-Para
+Para sid alt1.meDA.date End-Para
+Para sid alt1.meDA.commemoration.full End-Para
+Para sid alt1.meDA.commemoration.second End-Para
+Para sid alt1.meDA.commemoration.first_short End-Para
+Para sid alt1.meDA.insert1 End-Para
+Para sid alt1.meDA.insert2 End-Para
+Para sid alt1.meDA.note End-Para
 Para sid alt1.meLE.commemoration1 End-Para
 Para sid alt1.meLE.commemoration2 End-Para
 Para sid alt1.meHO.number End-Para
@@ -295,7 +295,7 @@ Para sid alt1.meHO.rank End-Para
 Para sid alt1.meHO.commemorations End-Para
 Para sid alt1.meHO.note1 End-Para
 Para sid alt1.meHO.note2 End-Para
-Para sid alt1.meDismissal End-Para
+Para sid alt1.meDA.dismissal End-Para
 
 Title <Tmode>sid alt1.meSV.Stichera1.mode</> <Tmelody>sid alt1.meSV.Stichera1.melody</>  End-Title
 Hymn sid alt1.meSV.Stichera1.text End-Hymn
@@ -702,13 +702,13 @@ Para sid alt1.meLI.Kontakion1.text End-Para
 
 Para sid alt1.meMegalynarion.text End-Para
 
-Para sid alt2.meDate.text End-Para
-Para sid alt2.meCommemoration.text End-Para
-Para sid alt2.meCommemoration2.text End-Para
-Para sid alt2.meShortCommemoration1.text End-Para
-Para sid alt2.meInsert1 End-Para
-Para sid alt2.meInsert2 End-Para
-Para sid alt2.meNote.text End-Para
+Para sid alt2.meDA.date End-Para
+Para sid alt2.meDA.commemoration.full End-Para
+Para sid alt2.meDA.commemoration.second End-Para
+Para sid alt2.meDA.commemoration.first_short End-Para
+Para sid alt2.meDA.insert1 End-Para
+Para sid alt2.meDA.insert2 End-Para
+Para sid alt2.meDA.note End-Para
 Para sid alt2.meLE.commemoration1 End-Para
 Para sid alt2.meLE.commemoration2 End-Para
 Para sid alt2.meHO.number End-Para
@@ -716,7 +716,7 @@ Para sid alt2.meHO.rank End-Para
 Para sid alt2.meHO.commemorations End-Para
 Para sid alt2.meHO.note1 End-Para
 Para sid alt2.meHO.note2 End-Para
-Para sid alt2.meDismissal End-Para
+Para sid alt2.meDA.dismissal End-Para
 
 Para sid alt2.meSV.Stichera1.mode End-Para
 Para sid alt2.meSV.Stichera1.melody End-Para
